@@ -1,0 +1,35 @@
+.bg-custom{
+    background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link{
+    background-color: white;
+    color: #303f9f;
+    border-radius: 15px;
+}.alert-success {
+
+}
+
+.admin .card{
+    
+    border:1px solid red;
+}
+
+.admin .card:hover{
+    background: #e2e2e2;
+}
+
+.list-group-item.active{
+    background: #303f9f!important;
+    border-color: #303f9f!important;
+}
+
+.discount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+    
+    text-decoration: line-through!important;
+}
+.product-card:hover{
+    background: #e2e2e2;
+}
